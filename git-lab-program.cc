@@ -1,8 +1,8 @@
 /*
  *        File: git-lab-program.cc
- *      Author: <Enter your name>
- *        Date: <Enter today's date>
- * Description: Add Description
+ *      Author: Benjamin Gillman
+ *        Date: 9/2/25
+ * Description: Hello git!
  */
 
 #include <iostream>
